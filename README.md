@@ -2,8 +2,8 @@
 Web applications designed and built using primarly Node.js and other javascript libraries
 
 Examples:</br>
--`movie-search` application demonstrates the usage of IMDB API
--`passport-authentication` application demonstrates authentication mechanism using Passport.js framwork
+- `movie-search` application demonstrates the usage of IMDB API
+- `passport-authentication` application demonstrates authentication mechanism using Passport.js framwork
 
 ### LANGUAGE, TOOLS and FRAMEWORK
 
