@@ -1,0 +1,16 @@
+{
+  "name": "movie-search",
+  "version": "1.0.0",
+  "description": "This is a movie serach application based on OMDB API ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}

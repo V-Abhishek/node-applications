@@ -1,0 +1,14 @@
+{
+  "name": "animalsvocal",
+  "version": "1.0.0",
+  "description": "This is a project on testing routing parameters.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
